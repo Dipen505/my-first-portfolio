@@ -1,0 +1,60 @@
+.halfwidth {
+    width: 40%;
+    float: left;
+    padding: 70px;
+    margin: 5px;
+}
+.text {
+    text-align: center;
+    font-size: 350%;
+    color: rgb(243, 136, 13);
+    font-family: 'Staatliches', cursive;
+}  
+.hcolor {
+    background-color: royalblue;
+    color: floralwhite;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.font{ 
+    
+    background-color: silver;
+    color: black;
+    font-size: 120%;
+    padding: 10px;
+    border-radius: 10px;
+}
+body {
+    background-color:rgb(238, 231, 231);
+}
+.link {
+    
+    padding: 8px 10px;
+    text-decoration: none;
+    border-radius: 5px;
+    color: floralwhite;
+    background-image:linear-gradient(crimson,black) ;
+}
+.header {
+    color: coral;
+    font-family: 'Staatliches', cursive;
+    font-size: 200%;
+    text-align: right;
+ }
+.second-font {
+    font-size: 120%;
+    background-color:rgb(212, 209, 209);
+    padding: 15px;
+    font-family: 'Roboto Slab', serif;
+    border-radius: 5px;
+
+}
+.background {
+    background-image: url("dream-bg.png");
+}
+.photo2 {
+    width: 400px;
+    height: 400px;
+}
+

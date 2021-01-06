@@ -1,0 +1,180 @@
+body {
+    margin: 0;
+}
+.half-width {
+    float: left;    
+    width: 40%;
+    margin-left: 4%;
+    padding-left: 3%;
+}
+.half-width img {
+    width: 100%;
+}
+.button {
+    padding: 10px 14px;
+    border-radius: 2px;
+    text-decoration: none;
+    background-image: linear-gradient(45deg,dodgerblue,rgb(28, 28, 59));
+    font-family: verdana;
+    display: inline-block;
+    color: white;
+    font-weight: 700;
+}
+.hello {
+    font-size: 200%;
+    color: rgb(24, 92, 219);
+}
+.para {
+    font-size: 120%;
+    color:rgb(5, 3, 2);
+    text-align: justify;
+}
+.name {
+    color: rgb(233, 71, 7);
+    font-size: 130%;
+    font-family: 'Source Code Pro', monospace;
+}
+.heading {
+    font-size: 130%;
+    font-family: 'Roboto', sans-serif;
+    padding-left: 5px;
+   }
+.paraa {
+    font-size: 110%;
+    color:rgb(5, 3, 2);
+    text-align: justify;
+    background-color: silver;
+    padding: 7px;
+    border-radius: 2px;
+    font-family: 'Barlow Condensed', sans-serif;
+}
+.about {
+    color:floralwhite;
+    background-color: royalblue;
+    font-size: 130%;
+    padding-left: 12px;
+    border-radius: 2px;
+    padding: 5px;
+}
+.topbanner {
+    background-image: url("top-banner.png");
+    background-repeat: no-repeat;
+}
+section {
+    height: 600px;
+    padding-bottom: 10px;
+}
+.second-half-width {
+    float: left;
+    width: 40%;
+    margin-left: 0;
+    padding-left: 4%;
+}
+.second-half-width img {
+    width: 100%;
+}
+.second-button {
+    padding: 10px 10px;
+    text-align: center;
+    background-color: tomato;
+    color: floralwhite;
+    display: inline-block;
+    border-radius: 3px;
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: 600;
+}
+.aboutme {
+    height: 700px;
+    padding-top: 10px;
+    background-image: url("dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.third-half-width {
+    float: left;
+    width: 30%;
+    padding-left: 40px;
+    margin: 1px;
+
+}
+.third-half-width img {
+    width: 100%;
+}
+.work {
+    padding-top: 50px;
+    background-color: powderblue; 
+    height: 500px;   
+}
+.work-header {
+    font-size: 170%;
+    font-weight: 900;
+    text-align: center;
+    padding-bottom: 40px;
+    font-family: 'Amatic SC', cursive;
+}
+.my {
+    color: red;
+    font-family: 'Caveat', cursive;
+    font-size: 180%;
+}
+.forth-half-width {
+    margin-left: 10px;
+    padding-left: 355px;
+    width: 50%;
+    float: left;
+}
+.forth-half-width img {
+    width: 100%;
+}
+.social {
+    padding-left: 550px;
+    float: left;
+}
+.social-photo img {
+    padding-left: 15px;
+    padding-top: 290px;
+}
+.bottom-benner {
+    padding-top: 20px;
+}
+.experience-header {
+    color: tomato;
+    font-size: 180%;
+}
+.highlight {
+    font-size: 130%;
+    color:teal;
+}
+.p {
+    font-size: 110%;
+    padding: 4px;
+}
+.box {
+    box-shadow: 10px 10px 30px dodgerblue;
+    height: 60%;
+}
+.experience {
+    background-image: url("exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.fifth-half-width {
+    width: 30%;
+    margin-left: 10%;
+    padding-left: 40px;
+    float: left;
+    background-color:ghostwhite;
+}
+h1 {
+    text-align: center;
+}
+#full-stack {
+    border-left: 5px solid tomato;
+    border-radius: 2px;
+    border-image: linear-gradient(180deg,red,cyan,black);
+    border-image-slice: 1;
+}
+footer p {
+    text-align: center;
+}
